@@ -1,4 +1,6 @@
-# learn-c-
-this is my first git repository
-<br>
-author : abeera
+#include<iostream.h>
+void main()
+{
+int x=4;
+cout<<x;
+}
